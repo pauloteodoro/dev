@@ -28,7 +28,6 @@ using namespace std;
 			cout << "               Mercado ESTRELA DA MANHA - versao git - teste 1 " << endl << endl;
 			cout << " Bom dia  hoje e dia 8 de setembro de 2018 " << endl;
 			cout << " Bem vindo responsavel de compras" << endl;
-3
 		}
 		else
 		{
