@@ -17,8 +17,6 @@ using namespace std;
 	// funcao main
 	int main()
 	{
-
-
 		int EscolhaUsuario, EscolhaCaixa;
 		int CodigoProduto, QuantidadeProduto;
 		string NomeProduto, ValidadeProduto;
@@ -28,8 +26,9 @@ using namespace std;
 		if (EscolhaUsuario == 1)
 		{
 			cout << "               Mercado ESTRELA DA MANHA - versao git - teste 1 " << endl << endl;
+			cout << " Bom dia  hoje e dia 8 de setembro de 2018 " << endl;
 			cout << " Bem vindo responsavel de compras" << endl;
-
+3
 		}
 		else
 		{
