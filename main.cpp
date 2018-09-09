@@ -27,7 +27,7 @@ using namespace std;
 		EscolhaUsuario = QualUsuario();												// chamadar funcao qual usuario  para indificar qual usuario;
 		if (EscolhaUsuario == 1)
 		{
-			cout << "               Mercado ESTRELA DA MANHA - versao git " << endl << endl;
+			cout << "               Mercado ESTRELA DA MANHA - versao git - teste 1 " << endl << endl;
 			cout << " Bem vindo responsavel de compras" << endl;
 
 		}
